@@ -30,7 +30,7 @@ Supports one-click free deployment of your private ChatGPT/LLM web application.
 [![][github-license-shield]][github-license-link]<br>
 [![][sponsor-shield]][sponsor-link]
 
-**Share LobeChat Repository**
+**Share LobeChat Repository.**
 
 [![][share-x-shield]][share-x-link]
 [![][share-telegram-shield]][share-telegram-link]
